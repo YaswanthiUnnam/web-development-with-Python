@@ -86,3 +86,14 @@ The project requires the installation of the following Python packages:
 *   **Message Flashing:**  A way to display one-time notification messages to users.
 *   **Password Hashing:** Securing user passwords by storing them as irreversible hashes rather than plain text.
 *   **Flask-Login:** Managing user authentication and sessions.
+
+
+
+## Contributors
+<strong>Yaswanthi Unnam</strong>
+
+## Credits
+<strong>TechWithTim</strong>
+
+## References
+[https://youtu.be/dam0GPOAvVI?si=Bdjt7JSzeDLcgGq_]
