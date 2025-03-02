@@ -7,7 +7,7 @@ The project aims to provide a foundational understanding of web development with
 *   Front-end styling is implemented using Bootstrap.
 *   The finished product will allow users to create accounts, log in/out, and associate information with their specific user.
 
-### Core Functionalities Covered
+### Core Functionalities
 *   **User Sign-up:** Creating new user accounts.
 *   **Database Storage:** Storing user credentials and related data in a database.
 *   **User Login:** Authenticating and logging in user accounts.
