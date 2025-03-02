@@ -2,12 +2,10 @@
 Here is a structured project report based on the provided source, "Document 20.pdf". This report outlines the steps and concepts required to build a website using Python and the Flask framework.
 
 ### Project Overview
-The project aims to provide a foundational understanding of web development with Python, using Flask to create a functional website. The goal is to equip individuals with the knowledge to customise and expand upon a basic website template.
+The project aims to provide a foundational understanding of web development with Python, using Flask to create a functional website.
 
-*   The tutorial focuses on back-end development.
-*   Front-end styling is implemented using Bootstrap, but is not the primary focus.
+*   Front-end styling is implemented using Bootstrap.
 *   The finished product will allow users to create accounts, log in/out, and associate information with their specific user.
-*   TypingDNA is mentioned as a sponsor and a tool for authenticating users based on their typing patterns.
 
 ### Core Functionalities Covered
 *   **User Sign-up:** Creating new user accounts.
